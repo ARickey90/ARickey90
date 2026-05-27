@@ -4,12 +4,9 @@
 
 <h1 align="center"> 👨🏽‍💻 Oluwatosin. A Fagbayimu</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I%27m+Oluwatosin+Fagbayimu;Junior+SOC+Analyst+%F0%9F%94%90;Network+Security+%7C+Threat+Detection;SIEM+%7C+Wireshark+%7C+Cisco+%7C+Splunk;Always+Learning+Cybersecurity+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Oluwatosin+Fagbayimu;Junior+SOC+Analyst;Network+Security+%7C+Threat+Detection;SIEM+%7C+Wireshark+%7C+Cisco+%7C+Splunk;7%2B+Years+IT+Support+%26+Systems+Operations;Always+Learning+Cybersecurity;Open+to+SOC+Analyst+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Oluwatosin+Fagbayimu;Junior+SOC+Analyst;Network+Security+%7C+Threat+Detection;SIEM+%7C+Wireshark+%7C+Cisco+%7C+Splunk;7%2B+Years+IT+Support+%26+Systems+Operations;Open+to+SOC+Analyst+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
