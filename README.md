@@ -2,22 +2,22 @@
      GITHUB PROFILE README — Oluwatosin Fagbayimu | ARickey90
      ============================================================ -->
 
-<h1 align="center">🛡️ Oluwatosin Adeyemi Fagbayimu</h1>
+<h1 align="center"> 👨🏽‍💻 Oluwatosin. A Fagbayimu</h1>
 
 <p align="center">
   <strong>Junior SOC Analyst &nbsp;|&nbsp; Network Security &nbsp;|&nbsp; Threat Detection &nbsp;|&nbsp; 7+ years IT Support & Systems Operations</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Junior+SOC+Analyst+🔐;Network+Traffic+Analysis+%26+Threat+Detection;SIEM+%7C+Wireshark+%7C+Cisco+%7C+Splunk;7%2B+Years+IT+Operations+Background" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Oluwatosin+Fagbayimu;Junior+SOC+Analyst+🔐;Network+Security+%7C+Threat+Detection;SIEM+%7C+Wireshark+%7C+Cisco+%7C+Splunk;7%2B+Years+IT+Support+%26+Systems+Operations;Always+Learning+Cybersecurity+🚀;Open+to+SOC+Analyst+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 Profile
+## 🧑‍💻 About Me 🛡️
 
 ```yaml
-Name:        Oluwatosin Adeyemi Fagbayimu
+Name:        Oluwatosin. A Fagbayimu
 Role:        Junior SOC Analyst
 Background:  7+ years IT Support & Systems Operations
 Location:    Germany
@@ -30,10 +30,12 @@ Core Skills:
   - Identity & Access Management (IAM/MFA)
   - Threat Detection & Incident Investigation
 
+Education:
+  - B.Sc Computer Science
+
 Tools:       Wireshark · Cisco Packet Tracer · Splunk · Elastic · Nmap
 Studying:    CompTIA Security+
 ```
-
 ---
 
 ## 🚀 Professional Summary
@@ -50,6 +52,21 @@ IT Operations professional with **7+ years of hands-on experience** in enterpris
 🔐 My IT support background means I understand how systems behave normally — making it easier to spot when something is wrong.
 
 ---
+
+## 🏆 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/cbbfa077-3ffa-4971-a0e9-3f9d225cd4c3/linked_in_profile">
+    <img src="https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
+
+  <a href="https://www.credly.com/badges/6252d399-6d74-4926-a7d4-92ac655b5935/linked_in_profile">
+    <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+
+  <img src="https://img.shields.io/badge/CompTIA_Security+-In_Progress-FF6B6B?style=for-the-badge&logo=comptia&logoColor=white" />
+</p>
+
 
 ## ⚔️ Security Arsenal
 
@@ -131,6 +148,12 @@ IT Operations professional with **7+ years of hands-on experience** in enterpris
   </a>
   <a href="mailto:rickey.baby@icloud.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+   <a href="https://x.com/OfficialKosin"> 
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+    <a href="https://www.instagram.com/iamofficialkosin/"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
