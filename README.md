@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Oluwatosin+Fagbayimu;Junior+SOC+Analyst+🔐;Network+Security+%7C+Threat+Detection;SIEM+%7C+Wireshark+%7C+Cisco+%7C+Splunk;7%2B+Years+IT+Support+%26+Systems+Operations;Always+Learning+Cybersecurity+🚀;Open+to+SOC+Analyst+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Oluwatosin+Fagbayimu;Junior+SOC+Analyst;Network+Security+%7C+Threat+Detection;SIEM+%7C+Wireshark+%7C+Cisco+%7C+Splunk;7%2B+Years+IT+Support+%26+Systems+Operations;Always+Learning+Cybersecurity;Open+to+SOC+Analyst+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
@@ -53,20 +53,19 @@ IT Operations professional with **7+ years of hands-on experience** in enterpris
 
 ---
 
-## 🏆 Certifications
+## 🎯 Focus
 
-<p align="center">
-  <a href="https://www.credly.com/badges/cbbfa077-3ffa-4971-a0e9-3f9d225cd4c3/linked_in_profile">
-    <img src="https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  </a>
+```bash
+[✔] Network Traffic Analysis & Packet Inspection — Wireshark
+[✔] Enterprise Network Security Configuration — Cisco / ACL
+[✔] System Diagnostics & Network Testing
+[~] SIEM Monitoring & Log Analysis — Splunk / Elastic
+[~] CompTIA Security+ Certification — In Progress
+[~] Incident Detection & Response Workflows
+[ ] Cloud Security Fundamentals — Azure Sentinel
+```
 
-  <a href="https://www.credly.com/badges/6252d399-6d74-4926-a7d4-92ac655b5935/linked_in_profile">
-    <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  </a>
-
-  <img src="https://img.shields.io/badge/CompTIA_Security+-In_Progress-FF6B6B?style=for-the-badge&logo=comptia&logoColor=white" />
-</p>
-
+---
 
 ## ⚔️ Security Arsenal
 
@@ -116,24 +115,16 @@ IT Operations professional with **7+ years of hands-on experience** in enterpris
 ## 🏆 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-FF6B6B?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk_Core_User-In_Progress-FF6F00?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/7%2B_Years-IT_Operations-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <a href="https://www.credly.com/badges/cbbfa077-3ffa-4971-a0e9-3f9d225cd4c3/linked_in_profile">
+    <img src="https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
+
+  <a href="https://www.credly.com/badges/6252d399-6d74-4926-a7d4-92ac655b5935/linked_in_profile">
+    <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+
+  <img src="https://img.shields.io/badge/CompTIA_Security+-In_Progress-FF6B6B?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
-
----
-
-## 🎯 Current Focus
-
-```bash
-[✔] Network Traffic Analysis & Packet Inspection — Wireshark
-[✔] Enterprise Network Security Configuration — Cisco / ACL
-[✔] System Diagnostics & Network Testing
-[~] SIEM Monitoring & Log Analysis — Splunk / Elastic
-[~] CompTIA Security+ Certification — In Progress
-[~] Incident Detection & Response Workflows
-[ ] Cloud Security Fundamentals — Azure Sentinel
-```
 
 ---
 
