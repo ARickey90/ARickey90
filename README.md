@@ -17,10 +17,10 @@
 ## 🧑‍💻 Profile
 
 ```yaml
-Name:        Oluwatosin Fagbayimu
+Name:        Oluwatosin Adeyemi Fagbayimu
 Role:        Junior SOC Analyst
 Background:  7+ years IT Support & Systems Operations
-Location:    United States
+Location:    Germany
 
 Core Skills:
   - Network Traffic Analysis & Packet Inspection
