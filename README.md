@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me 🛡️
+## About Me 🛡️
 
 ```yaml
 Name:        Oluwatosin. A Fagbayimu
