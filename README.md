@@ -152,9 +152,6 @@ IT Operations professional with **7+ years of hands-on experience** in enterpris
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARickey90&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARickey90&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
