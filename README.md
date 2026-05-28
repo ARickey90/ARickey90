@@ -150,7 +150,7 @@ IT Operations professional with **7+ years of hands-on experience** in enterpris
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARickey90&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ARickey90&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARickey90&theme=tokyonight&hide_border=true" />
