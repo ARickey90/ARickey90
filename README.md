@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Oluwatosin+Fagbayimu;Junior+SOC+Analyst;Network+Security+%7C+Threat+Detection;SIEM+%7C+Wireshark+%7C+Cisco+%7C+Splunk;7%2B+Years+IT+Support+%26+Systems+Operations;Open+to+SOC+Analyst+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Oluwatosin+Fagbayimu;Aspiring+SOC+Analyst;Network+Security+%7C+Threat+Detection;SIEM+%7C+Wazuh+%7C+Wireshark+%7C+Nmap;7%2B+Years+IT+Support+%26+Systems+Operations;Open+to+SOC+Analyst+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,29 +15,30 @@
 
 ```yaml
 Name:        Oluwatosin. A Fagbayimu
-Role:        Junior SOC Analyst
+Role:        Aspiring SOC Analyst | Operation Specialist @ Upway
 Background:  7+ years IT Support & Systems Operations
 Location:    Germany
 
 Core Skills:
   - Network Traffic Analysis & Packet Inspection
+  - SIEM Monitoring & Alert Triage (Wazuh)
+  - Incident Detection, Investigation & MITRE ATT&CK Mapping
   - Access Control & Security Policy Enforcement (ACL)
   - Enterprise Network Design & Configuration
-  - SIEM Monitoring & Log Analysis
   - Identity & Access Management (IAM/MFA)
-  - Threat Detection & Incident Investigation
 
 Education:
-  - B.Sc Computer Science
+  - HND, Computer Science — The Polytechnic, Ibadan
+  - 10Alytics Cybersecurity Cohort (C26-04)
 
-Tools:       Wireshark · Cisco Packet Tracer · Splunk · Elastic · Nmap
+Tools:       Wazuh · pfSense · Wireshark · Nmap · Hydra · Cisco Packet Tracer
 Studying:    CompTIA Security+
 ```
 ---
 
 ## 🚀 Professional Summary
 
-IT Operations professional with **7+ years of hands-on experience** in enterprise environments, now working as a **Junior SOC Analyst** with a focus on network security, threat detection, and security operations.
+IT Operations professional with 7+ years of hands-on experience in enterprise environments, currently completing a structured SOC Analyst training path through the 10Alytics Cybersecurity Cohort, with a focus on network security, threat detection, and security operations.
 
 ⚡ Strong operational background in:
 - Enterprise network configuration, routing, and inter-department security policy enforcement
