@@ -57,9 +57,10 @@ IT Operations professional with 7+ years of hands-on experience in enterprise en
 [✔] Network Traffic Analysis & Packet Inspection — Wireshark
 [✔] Enterprise Network Security Configuration — Cisco / ACL
 [✔] System Diagnostics & Network Testing
-[~] SIEM Monitoring & Log Analysis — Splunk / Elastic
+[✔] SIEM Monitoring & Alert Triage — Wazuh
+[✔] Incident Detection, Investigation & MITRE ATT&CK Mapping
+[✔] Firewall Rule Configuration & Containment — pfSense
 [~] CompTIA Security+ Certification — In Progress
-[~] Incident Detection & Response Workflows
 [ ] Cloud Security Fundamentals — Azure Sentinel
 ```
 
@@ -70,11 +71,11 @@ IT Operations professional with 7+ years of hands-on experience in enterprise en
 <p align="center"><strong>🛡️ Security & Monitoring Tools</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Wazuh-1A73E8?style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 <p align="center"><strong>🖥️ Systems & Networking</strong></p>
@@ -106,7 +107,7 @@ IT Operations professional with 7+ years of hands-on experience in enterprise en
 | 🔧 | [Enterprise Network Configuration — Cisco Packet Tracer](link-coming-soon) | Designed and deployed a multi-department network (Admin/Sales/HR) with router-based inter-VLAN routing, DHCP/DNS server setup, and ACL security rules — verified with controlled ping tests proving access enforcement | Network Design · ACL · Routing · DHCP/DNS |
 | 💻 | [System Information & Network Testing](link-coming-soon) | Executed system diagnostics and network connectivity testing across endpoints, documented findings and identified configuration gaps | Diagnostics · Network Testing · Documentation |
 | 🔐 | [Identity & Access Management with MFA](link-coming-soon) | Implemented IAM controls with multi-factor authentication, enforcing least-privilege access principles | IAM · MFA · Access Control |
-| 📊 | [SIEM Log Monitoring — Splunk](link-coming-soon) | Ingested and correlated security event logs in Splunk, built detection rules and generated alerts for suspicious activity | SIEM · Log Analysis · Alert Engineering |
+| 🛡️ | [SOC Capstone — End-to-End Incident Investigation](link-coming-soon) | Built a 4-VM lab (Kali, Ubuntu, pfSense, Wazuh) on VirtualBox; simulated an SSH brute-force attack with Hydra, captured traffic with Wireshark, detected and triaged alerts in Wazuh SIEM, mapped activity to MITRE ATT&CK (T1110), configured pfSense containment rules, and produced a full incident report | SIEM · Incident Response · MITRE ATT&CK · Firewall Config |
 
 ---
 
