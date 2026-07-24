@@ -14,7 +14,7 @@
 ## About Me 🛡️
 
 ```yaml
-Name:        Oluwatosin. A Fagbayimu
+Name:        Oluwatosin A. Fagbayimu
 Role:        Aspiring SOC Analyst | Operation Specialist @ Upway
 Background:  7+ years IT Support & Systems Operations
 Location:    Germany
