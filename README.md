@@ -21,11 +21,10 @@ Location:    Germany
 
 Core Skills:
   - Network Traffic Analysis & Packet Inspection
-  - SIEM Monitoring & Alert Triage (Wazuh)
+  - SIEM Log Monitoring & Alert Triage — Wazuh
   - Incident Detection, Investigation & MITRE ATT&CK Mapping
   - Access Control & Security Policy Enforcement (ACL)
   - Enterprise Network Design & Configuration
-  - Identity & Access Management (IAM/MFA)
 
 Education:
   - HND, Computer Science — The Polytechnic, Ibadan
@@ -45,7 +44,6 @@ IT Operations professional with 7+ years of hands-on experience in enterprise en
 - Live network traffic capture, packet inspection, and anomaly identification
 - Access Control List (ACL) design and verification across multi-subnet environments
 - System diagnostics, network connectivity testing, and incident documentation
-- Identity & Access Management including MFA implementation
 
 🔐 My IT support background means I understand how systems behave normally — making it easier to spot when something is wrong.
 
@@ -94,7 +92,6 @@ IT Operations professional with 7+ years of hands-on experience in enterprise en
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM_%26_MFA-00897B?style=for-the-badge&logo=shield&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
 
@@ -106,7 +103,6 @@ IT Operations professional with 7+ years of hands-on experience in enterprise en
 |---|---------|-----------|------------|
 | 🌐 | [Network Traffic Analysis — Wireshark](link-coming-soon) | Captured live network traffic, performed deep packet inspection, and identified suspicious packets and anomalous behaviour across active network sessions | Packet Analysis · Threat Detection · Protocol Inspection |
 | 🔧 | [Enterprise Network Configuration — Cisco Packet Tracer](https://github.com/ARickey90/SOC-analyst-portfolio/tree/b9771dcedc84f32e16d09f9a506945272bc482c4/Cisco-packet-tracer-network-config) | Designed and deployed a multi-department network (Admin/Sales/HR) with router-based inter-VLAN routing, DHCP/DNS server setup, and ACL security rules — verified with controlled ping tests proving access enforcement | Network Design · ACL · Routing · DHCP/DNS |
-| 🔐 | [Identity & Access Management with MFA](link-coming-soon) | Implemented IAM controls with multi-factor authentication, enforcing least-privilege access principles | IAM · MFA · Access Control |
 | 🛡️ | [SOC Brute Force - End-to-End Incident Investigation](https://github.com/ARickey90/SOC-analyst-portfolio/tree/cff197f690f16dc1e8d45a774514430968dbd06f/Soc-brute-force-investigation) | Built a 4-VM lab (Kali, Ubuntu, pfSense, Wazuh) on VirtualBox; simulated an SSH brute-force attack with Hydra, captured traffic with Wireshark, detected and triaged alerts in Wazuh SIEM, mapped activity to MITRE ATT&CK (T1110), configured pfSense containment rules, and produced a full incident report | SIEM · Incident Response · MITRE ATT&CK · Firewall Config |
 | 🕵️ | [Threat Actor Profiling & Risk Assessment — Novacore Financial Services](https://github.com/ARickey90/SOC-analyst-portfolio/tree/b9771dcedc84f32e16d09f9a506945272bc482c4/Novacore-threat-intelligence-report) | Profiled five financially motivated threat groups, mapped attacker behavior to MITRE ATT&CK, and produced a full risk assessment with prioritized recommendations for a fintech case study | Threat Intelligence · MITRE ATT&CK Mapping · Risk Assessment · Threat Actor Profiling |
 
