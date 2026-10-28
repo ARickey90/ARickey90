@@ -25,6 +25,7 @@ Core Skills:
   - Incident Detection, Investigation & MITRE ATT&CK Mapping
   - Access Control & Security Policy Enforcement (ACL)
   - Enterprise Network Design & Configuration
+  - GRC and ISO 27001 risk assessment
 
 Education:
   - HND, Computer Science — The Polytechnic, Ibadan
@@ -59,8 +60,11 @@ IT Operations professional with 7+ years of hands-on experience in enterprise en
 [✔] Incident Detection, Investigation & MITRE ATT&CK Mapping
 [✔] Firewall Rule Configuration & Containment — pfSense
 [✓] Threat Actor Profiling & Risk Assessment — Novacore Capstone
-[~] CompTIA Security+ Certification — In Progress
-[ ] Cloud Security Fundamentals — Azure Sentinel
+[✓] GRC audit and ISO/IEC 27001 ISMS documentation (NovaPay capstone)
+[✓] Risk assessment and treatment (5×5 matrix, risk register)
+[✓] Security policy writing and Statement of Applicability
+[ ] CompTIA Security+ Certification — In Progress
+[ ] Cloud Security Fundamentals — Azure Sentinel In Progress
 ```
 
 ---
@@ -93,6 +97,16 @@ IT Operations professional with 7+ years of hands-on experience in enterprise en
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+</p>
+
+<p align="center"><strong>⚖️ Governance, Risk & Compliance</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ISO%2FIEC-27001%3A2022-1F3864?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ISO%2FIEC-27001%3A2022-1F3864?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NIST-CSF%202.0-5B7C99?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PCI-DSS%20v4.0.1-1FA2A6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Risk-Assessment-C0392B?style=for-the-badge" />
 </p>
 
 ---
