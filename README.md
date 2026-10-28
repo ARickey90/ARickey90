@@ -29,7 +29,7 @@ Core Skills:
 
 Education:
   - HND, Computer Science — The Polytechnic, Ibadan
-  - 10Alytics Cybersecurity Cohort (C26-04)
+  - Cybersecurity Training — 10Alytics
 
 Tools:       Wazuh · pfSense · Wireshark · Nmap · Hydra · Cisco Packet Tracer
 Studying:    CompTIA Security+
